@@ -1,0 +1,11 @@
+# Ignore image output
+*.ppm
+
+# Ignore binaries
+*.exe
+
+# Ignore object files
+*.o
+
+# VS Code workspace settings
+.vscode/
